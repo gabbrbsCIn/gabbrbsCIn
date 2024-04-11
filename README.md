@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=200&color=81F767&background=706DFF00&center=true&vCenter=true&random=false&width=435&lines=Hi!%F0%9F%91%8B;I'm+Gabriel+Barbosa!" />
 </h1>
 
-<h3 align="center">A passionate software developer/student from Recife </h3>
+<h3 align="center">A passionate software developer/student from Recife-PE 🇧🇷 </h3>
 
 <br/>
 
@@ -13,6 +13,11 @@
  🔭 I’m currently working on **a Django WebApp**
  
  🌱 I’m currently learning **Django, Software Architecture, Unitary tests**
+
+ 🏤 I'm currently studying higher education in **Information Systems at the Federal University of Pernambuco**
+
+ 🌱 I'm a Systems Development technician at **ETE Porto Digital** 
+ 
 
 
 
