@@ -72,7 +72,7 @@
 <br>
 <div align=center justify=center>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabbrbsCIn&repo=to-do-list-flask-api&theme=dracula" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabbrbsCIn&repo=live-chat&theme=dracula" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabbrbsCIn&repo=django-react-review_app&theme=dracula" alt="streak stats"/>
   <br/>
  
 </div>
