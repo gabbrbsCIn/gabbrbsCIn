@@ -24,7 +24,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:g.barbosagomesoliveira@gmail.com">
+  <a href="mailto:barbosa.gabrielg1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-barbosa-977717268/" target="_blank">
