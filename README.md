@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Node.js API REST**
  
- 🌱 I’m currently learning **Software Architecture, Unitary tests, Clean Code**
+ 🌱 I’m currently learning **Software Architecture, Unitary Tests, Clean Code**
 
  🏤 I'm currently studying higher education in **Information Systems at the Federal University of Pernambuco**
 
